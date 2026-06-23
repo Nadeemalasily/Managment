@@ -1,0 +1,6 @@
+{
+  "name": "Month Management",
+  "description": "A secure personal budget management application to track monthly income, expenses, debts, and comprehensive box statements with official accounting reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
